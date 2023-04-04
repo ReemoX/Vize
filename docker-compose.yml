@@ -1,2 +1,22 @@
-asdasdas
-dsadsadasdas
+Kurulumları sunucunuzda  docker compose ile yapıp aşağıdaki aşamaları gerçekleştiriniz.
+
+İşlem 1 :  docker-compose.yml dosyasını github hesabınızda bir repo açıp ona yükleyiniz ve adresini  buraya yazınız (20 puan)
+
+İşlem 2 :  Mariadb nin password parametre değerini öğrenci numaranız yapınız. (10 puan)
+
+İşlem 3 : Nginx servisine sizin alan adınızı tanımlayarak, sunucunun 80 nolu portundan web hizmeti vermesini sağlayınız (10 puan)
+
+İşlem 4 : Let's encrypt hizmetini tanımlayarak web sunucunuzun SSL ( 443 portundan) hizmet vermesini sağlayınız (20 puan)
+
+İşlem 5 : Daha önce domain alanı aldığınız ve yönlendirme yaptığınız sunucunuzda Wordpress kurulumu yapıp örnek sayfanın gelmesini sağlayınız, URL bilgisini veriniz (10 puan)
+
+Her işlem için github reponuza AYRI bir commit yapınız. Commit esnasında İşlem numarasını muhakkak belirtiniz. Tüm işlemleri ayrı commit şeklinde yapmamanız halinde puan kırılacaktır.
+
+
+5.
+git clone https://github.com/ReemoX/Vize.git
+cd example-vize-app/
+pwd
+
+
+
